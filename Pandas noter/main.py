@@ -29,7 +29,7 @@ import chatbot
 
 def create_app():
     with gr.Blocks() as app:
-        gr.Markdown("# Python kommandoer - Fuldstændig liste")
+        gr.Markdown("# Fuldstændig kommandoliste af Hannah Claeys Fog")
 
         with gr.Tabs():
             with gr.Tab("👩‍💻 Programmering"):
